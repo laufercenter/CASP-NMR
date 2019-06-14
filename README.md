@@ -1,1 +1,1 @@
-# CASP-NMR
+# CASP-NMRProcess the CASP NMR data to:1. Replace QD assingments with the assignments to the hydrogens it refers to (fix_QDQG.py)2. Map most hydrogen assignments to the heavy atom they are attached to (and add 1 angstrong to the distance for each such replacment (process_nmr.py)
